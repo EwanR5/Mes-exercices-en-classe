@@ -1,0 +1,13 @@
+H:\Informatique\AlgoAge\bin\Debug\netcoreapp3.1\AlgoAge.exe
+H:\Informatique\AlgoAge\bin\Debug\netcoreapp3.1\AlgoAge.deps.json
+H:\Informatique\AlgoAge\bin\Debug\netcoreapp3.1\AlgoAge.runtimeconfig.json
+H:\Informatique\AlgoAge\bin\Debug\netcoreapp3.1\AlgoAge.runtimeconfig.dev.json
+H:\Informatique\AlgoAge\bin\Debug\netcoreapp3.1\AlgoAge.dll
+H:\Informatique\AlgoAge\bin\Debug\netcoreapp3.1\AlgoAge.pdb
+H:\Informatique\AlgoAge\obj\Debug\netcoreapp3.1\AlgoAge.csprojAssemblyReference.cache
+H:\Informatique\AlgoAge\obj\Debug\netcoreapp3.1\AlgoAge.AssemblyInfoInputs.cache
+H:\Informatique\AlgoAge\obj\Debug\netcoreapp3.1\AlgoAge.AssemblyInfo.cs
+H:\Informatique\AlgoAge\obj\Debug\netcoreapp3.1\AlgoAge.csproj.CoreCompileInputs.cache
+H:\Informatique\AlgoAge\obj\Debug\netcoreapp3.1\AlgoAge.dll
+H:\Informatique\AlgoAge\obj\Debug\netcoreapp3.1\AlgoAge.pdb
+H:\Informatique\AlgoAge\obj\Debug\netcoreapp3.1\AlgoAge.genruntimeconfig.cache
